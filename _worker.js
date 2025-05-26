@@ -867,6 +867,8 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
+	'www.cybertunnel.org',
+	'www.chatgpt.com',
 	'weibo.com',                // Weibo - A popular social media platform
 	'www.baidu.com',            // Baidu - The largest search engine in China
 	'www.qq.com',               // QQ - A widely used instant messaging platform
